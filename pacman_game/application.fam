@@ -1,0 +1,10 @@
+App(
+    appid="pacman_game",
+    name="Pac-Man",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="pacman_app",
+    stack_size=2 * 1024,
+    requires=["gui", "notification"],
+    fap_category="Games",
+    sources=["pacman.c"],
+)
