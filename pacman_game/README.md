@@ -18,3 +18,5 @@ and run `./fbt fap_pacman_game`.
 Ghost 1 chases you, 2 ambushes ahead of you, 3 flanks, 4 retreats when close.
 They alternate scatter/chase, and flee (hollow outlines) after a power pellet.
 The row-6 side openings wrap around as a warp tunnel.
+https://github.com/Cypher5v/FllipperPacman/tree/main/pacman_game/dist
+hit the link or dist for fap
